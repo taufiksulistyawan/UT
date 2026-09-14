@@ -33,7 +33,7 @@ Sistem ekonomi adalah sekumpulan aturan, lembaga, dan mekanisme yang digunakan o
 ## Kesimpulan
 Ilmu ekonomi mengajarkan kita cara mengelola kelangkaan, sedangkan sistem ekonomi adalah wadah atau aturan main yang dipakai oleh suatu negara untuk menyelesaikan masalah kelangkaan tersebut di tingkat nasional.
 Demikian jawaban dan analisis dari saya. Mohon koreksi serta masukannya dari Bapak/Ibu Tutor dan rekan-rekan mahasiswa semua jika terdapat kekeliruan. Terima kasih.
-Sumber Referensi:
+## Sumber Referensi:
 
 * Sugiharsono, dkk. (2024). Buku Materi Pokok ISIP4112 – Pengantar Ilmu Ekonomi. Tangerang Selatan: Universitas Terbuka (Modul 1 mengenai Konsep Dasar Ekonomi dan Sistem Ekonomi). (Catatan: Sesuaikan nama penulis, kode MK, dan tahun sesuai dengan cover modul fisik/RBV yang Anda miliki saat ini).
 * Samuelson, P. A., & Nordhaus, W. D. (2010). Economics. New York: McGraw-Hill.
