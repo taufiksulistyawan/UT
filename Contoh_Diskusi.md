@@ -1,10 +1,4 @@
-Selamat pagi/siang/malam Bapak/Ibu Tutor dan rekan-rekan mahasiswa yang saya hormati.
-Perkenalkan diri saya:
-
-* Nama: [Isi Nama Anda]
-* NIM: [Isi NIM Anda]
-* Prodi: [Isi Program Studi Anda, contoh: S1 Manajemen / Akuntansi]
-* Mata Kuliah: Pengantar Ilmu Ekonomi (ISIP4112) / [Sesuaikan dengan Nama & Kode MK Anda]
+Selamat pagi/siang/sore, Bapak/Ibu [Nama Tutor] selaku tutor mata kuliah [Matkul], serta teman-teman mahasiswa sekalian.
 
 Izinkan saya untuk menanggapi topik diskusi pada Sesi ini mengenai konsep dasar ilmu ekonomi dan sistem ekonomi. Berikut adalah jawaban dari saya:
 ## Jawaban Nomor 1: Pengertian Ilmu Ekonomi dan Contoh Permasalahannya
