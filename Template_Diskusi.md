@@ -1,7 +1,4 @@
-Berikut adalah Template Final pengisian diskusi Tuton Universitas Terbuka yang sudah saya koreksi dan sempurnakan. Format ini dirancang agar tulisan Anda terlihat sangat profesional, rapi saat dibaca oleh Tutor, dan memenuhi seluruh komponen penilaian maksimal (Nilai 90-100).
-------------------------------
 ## TEMPLATE FINAL DISKUSI TUTON UT
-(Salin teks di bawah ini ke Microsoft Word, lalu isi bagian di dalam tanda kurung siku [...])
 Selamat pagi/siang/malam Bapak/Ibu Tutor dan rekan-rekan mahasiswa yang saya hormati.
 Perkenalkan diri saya:
 
