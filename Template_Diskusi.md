@@ -1,11 +1,5 @@
 ## TEMPLATE FINAL DISKUSI TUTON UT
-Selamat pagi/siang/malam Bapak/Ibu Tutor dan rekan-rekan mahasiswa yang saya hormati.
-Perkenalkan diri saya:
-
-* Nama: [Isi Nama Lengkap Anda]
-* NIM: [Isi NIM Anda]
-* Prodi: [Isi Program Studi Anda]
-* Mata Kuliah: [Isi Nama Mata Kuliah & Kode MK, contoh: Pengantar Ilmu Ekonomi / ISIP4112]
+Selamat pagi/siang/sore, Bapak/Ibu [Nama Tutor] selaku tutor mata kuliah [Matkul], serta teman-teman mahasiswa sekalian.
 
 Izinkan saya menyampaikan opini dan jawaban saya untuk Topik Diskusi Sesi [Isi Nomor Sesi, contoh: 1] mengenai "[Tuliskan Judul Topik Diskusi]". Berikut adalah pembahasan dari saya:
 ------------------------------
