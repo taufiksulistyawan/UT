@@ -1,7 +1,7 @@
 ## TEMPLATE FINAL DISKUSI TUTON UT
 Selamat pagi/siang/sore, Bapak/Ibu [Nama Tutor] selaku tutor mata kuliah [Matkul], serta teman-teman mahasiswa sekalian.
 
-Izinkan saya menyampaikan opini dan jawaban saya untuk Topik Diskusi Sesi [Isi Nomor Sesi, contoh: 1] mengenai "[Tuliskan Judul Topik Diskusi]". Berikut adalah pembahasan dari saya:
+Izinkan saya untuk menanggapi topik diskusi pada Sesi ini. Berikut adalah jawaban dari saya:
 ------------------------------
 ## Jawaban Soal Nomor 1
 
